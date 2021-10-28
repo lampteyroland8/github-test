@@ -6,3 +6,4 @@ banana
 cherries
 carrots
 cereal
+rice
